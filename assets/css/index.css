@@ -1,0 +1,28 @@
+body {
+  background-color: #e3f2fd;
+  color: #333;
+}
+header {
+  background: url("../img/forest.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+}
+.square-img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 0 auto;
+}
+.container a {
+  color: #333;
+  text-decoration: none;
+  transition: transform 0.3s ease;
+}
+.blob {
+  transition: transform 0.3s ease;
+}
+.blob:hover {
+  transform: scale(1.05);
+}
+

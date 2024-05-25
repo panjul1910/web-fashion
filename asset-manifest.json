@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-fashion/static/css/main.f855e6bc.css",
+    "main.js": "/web-fashion/static/js/main.118c986c.js",
+    "index.html": "/web-fashion/index.html",
+    "main.f855e6bc.css.map": "/web-fashion/static/css/main.f855e6bc.css.map",
+    "main.118c986c.js.map": "/web-fashion/static/js/main.118c986c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.118c986c.js"
+  ]
+}
