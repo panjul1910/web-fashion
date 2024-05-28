@@ -4,7 +4,7 @@ function Product() {
     const [items, setItems] = useState([]);
 
     useEffect(() => {
-        fetch('../data.json')
+        fetch('https://github.com/panjul1910/web-fashion/blob/main/public/data.json')
             .then(response => response.json())
             .then(data => setItems(data.items))
             .catch(error => console.error('Error loading the data:', error));
