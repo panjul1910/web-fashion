@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "image": "assets/img/forest_t-shirt.jpg",
+      "nama": "Kaos Hutan",
+      "description": "Kaos dengan desain terinspirasi dari hutan tropis yang lebat."
+    },
+    {
+      "image": "assets/img/forest_dress.jpg",
+      "nama": "Gaun Alam",
+      "description": "Gaun elegan dengan motif floral yang menawan."
+    },
+    {
+      "image": "assets/img/forest_pants.jpg",
+      "nama": "Celana Hutan",
+      "description": "Celana nyaman untuk petualangan di alam bebas."
+    },
+    {
+      "image": "assets/img/forest_sock.jpg",
+      "nama": "Kaos Kaki Hutan",
+      "description": "Kaos kaki nyaman untuk petualangan di alam bebas."
+    },
+    {
+      "image": "assets/img/forest_shoes.jpg",
+      "nama": "Sepatu Hutan",
+      "description": "Sepatu nyaman untuk petualangan di alam bebas."
+    },
+    {
+      "image": "assets/img/forest_gloves.jpg",
+      "nama": "Sarung Tangan Hutan",
+      "description": "Sarung tangan nyaman untuk petualangan di alam bebas."
+    }
+  ]
+}
