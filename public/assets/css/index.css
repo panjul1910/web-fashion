@@ -26,3 +26,6 @@ header {
   transform: scale(1.05);
 }
 
+.card {
+  min-height: 500px;
+}
